@@ -62,7 +62,7 @@ pipeline{
                 emailext (
                 attachLog: true, 
                 attachmentsPattern: '**/test-output/SparkReport/*.html,**/test-output/SparkReport/*.pdf',
-                body: readFile("target/sure-fire-reports/emailablereport.html"), 
+                body: "Hi Team . PFA the automation Report ", 
                 subject: "Email from '$PROJECT_DEFAULT_SUBJECT' ", 
                 to: 'swaroop0142@gmail.com');
             }
