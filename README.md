@@ -1,83 +1,187 @@
+timecounter
+
+
 CONTENTS OF THIS FILE
 ---------------------
 
  * Introduction
  * Requirements
  * Installation
+ * Platform Specification
+ * Test Coverage
  * Configuration
- * Maintainers
+ * Run the suite
+ * Reporting and Logs
+ * Highlights
+ * Scalability
+ * Improvements 
+ * Maintainance
+ * Dependencies
 
 
 INTRODUCTION
 ------------
 
-The Easy Breadcrumb module provides configurable breadcrumbs that improve on
-core breadcrumbs by including the current page title as an unlinked crumb which
-follows breadcrumb best-practices
-(URL "https://www.nngroup.com/articles/breadcrumb-navigation-useful/").
-Easy Breadcrumb takes advantage of the work you've already done for generating
-your path aliases, while it naturally encourages the creation of semantic
-and consistent paths. This module is currently available for Drupal 6.x, 7.x,
-and 8.x.x.
+The timecounter testing framework is designed to test a website https://e.ggtimer.com/ .
+The above website performs a countdown task (i.e it counts down time in descending order).
+This will validate the logic of UI is actually working or not . This project can be enhanced to test any website which follows this logic. 
 
-Easy Breadcrumb uses the current URL (path alias) and the current page's title
-to automatically extract the breadcrumb's segments and its respective links.
-The module is really a plug and play module because it auto-generates the
-breadcrumb by using the current URL and nothing extra is needed.
-
- * For the description of the module visit:
-   https://www.drupal.org/project/easy_breadcrumb
-   or
-   https://www.drupal.org/docs/8/improve-the-breadcrumbs
-
- * To submit bug reports and feature suggestions, or to track changes visit:
-   https://www.drupal.org/node/2929013
+The framework followed in this project is very generic and loosely coupled . Hence this is very easy to maintain . It follows below design patterns
+ 
+ * Single Responsibility Principle
+ * Factory Design Patten
+ * Page Object Model
 
 
 REQUIREMENTS
 ------------
 
-This module requires no modules outside of Drupal core.
+This test project requires no modules outside of timecounter project.
 
 
 INSTALLATION
 ------------
 
-Install the Easy Breadcrumb module as you would normally install a contributed
-Drupal module. Visit https://www.drupal.org/node/1897420 for further
-information.
+  Pre-requisties
+  1. Requires Java 1.8(Since java 8 is used) and above.
+  2. Maven should be installed in your OS. 
+  3. Clone your code from https://github.com/Swaroop112345/timecounter
+
+PLATFORM SPECIFICATION
+----------------------
+  
+  Supported: chrome,firefox,safari,edge,headless
+  Unsupported: mobile versions
+  
+
+TEST COVERAGE
+-------------
+
+  Current automation suite validates the Home Page, Custom Input (when user manually enters the time)
+  and Predefined selections (5 minutes,10 minutes,15 minutes)
 
 
 CONFIGURATION
 -------------
 
-    1. Navigate to Administration > Extend and enable the module. The system
-       breadcrumb block has now been updated.
-    2. Navigate to Administration > Configuration > User Interface > Easy
-       Breadcrumb for configurations. Save Configurations.
+ 1. Feature File Location
 
-Configurable parameters:
- * Include / Exclude the front page as a segment in the breadcrumb.
- * Include / Exclude the current page as the last segment in the breadcrumb.
- * Use the real page title when it is available instead of always deducing it
-   from the URL.
- * Print the page's title segment as a link.
- * Make the language path prefix a segment on multilingual sites where a path
-   prefix ("/en") is used.
- * Use menu title as fallback instead of raw path component.
- * Remove segments of the breadcrumb that are identical.
- * Use a custom separator between the breadcrumb's segments. (TODO)
- * Choose a transformation mode for the segments' title.
- * Make the 'capitalizator' ignore some words.
+This suite is developed on a BDD approach . So the driving part are the feature files which are placed under /src/test/resources/parallel. User can add the test data in the feature file to have more coverage.
+
+ 2. Variables
+
+The variable section is driven from pom.xml. Hence please use below variables in case you need to change
+
+       <systemPropertyVariables>
+                <browser>chrome</browser>
+                <url>https://e.ggtimer.com/</url>
+        </systemPropertyVariables>
+
+  browser : can be any options of the supported format . Ensure to put the proper name as mentioned in format
+  eg : if we need to specify firefox it can be either firefox or FIREFOX or FireFOX but it should not be fire.
+
+ 3. Cucumber Tags
+
+  Default tag is @Assignment. User can change to any other tags available during run time @HomePage @Regression
+
+  <argLine>-Dcucumber.filter.tags="@Assignment"</argLine>
 
 
-MAINTAINERS
+
+RUN THE SUITE
+-------------
+
+  
+  1. Default : mvn clean verify 
+  It will launch chrome browser and execute the task asked @Assignment
+
+  2. Custom: mvn -Dbrowser="firefox" -Dcucumber.filter.tags="'@Assignment'" clean verify
+  User can change during run time
+
+  3.If URL gets modified and need to be changed on run time then it can be passed through as -Durl="https://e.ggtimer.com/modified"
+
+
+REPORTING AND LOGS
+-------------------
+
+  1. Reports : Path - test-output/
+     Extent-Report : $Path/SparkReport
+     Allure-Report : $Path/allure-results - Note this is not tested yet . However it is configured . user can use Jenkins plugin to install and fetch allure Jsons
+     MultiThread-Report: test-output-thread/index.html
+     Cucumber Reports: Only JSONs and html are generated under target/cucumber-reports. In order to get them please run - mvn run verify -DskipTests post execution
+
+  2. Logs : All the application logs are captured under /logs/ 
+     factory-info.log - For factory package logs
+     page-info.log - For pages package logs
+     utility-info.log - For utility package logs
+
+HIGHLIGHTS
 -----------
 
- * Greg Boggs - https://www.drupal.org/u/greg-boggs
- * Neslee Canil Pinto - https://www.drupal.org/u/neslee-canil-pinto
- * Brooke Mahoney (loopduplicate) - https://www.drupal.org/u/loopduplicate
+  1. Generic framework and loosly coupled. Developed based upon OOPs.
+  2. Use of Java 8. Java doc created .
+  3. Thread Safe and Synchronized which supports parallel execution.
+  4. Parameterized variables which makes user friendly and maintainable.
+  5. Good reporting . Almost support all available formats . Snapshot capture. 
 
-Supporting organization:
 
- * Kanopi Studios - https://www.drupal.org/kanopi-studios
+
+SCALABILITY
+-----------
+
+Currently unable to test and configure due to system limitations. It can be added with docker-compose.yml file which can be downloaded from below link.
+
+https://github.com/SeleniumHQ/docker-selenium/blob/trunk/docker-compose-v3.yml
+
+Also zalenium configuration can be used which has kubernetes support
+
+Below code changes will be required while implementing this 
+
+In factory driver class - driver need to be initialized with remote web driver using Chrome Options
+and pointing the URI to docker hub 
+
+IMPROVEMENTS
+------------
+ 1. Scalability
+ 2. More Test coverage.
+ 3. Test Validation logic. As currently selenium is not able to track frequent DOM changes which are happening rapidly. Even if with WebDriver IO and JS it is failing to capture. So the logic used here to give more interval and validate results as per 70% pass occurrence. 
+ 4. Assignment tag is currently supporting one variable that is 25 which can be enhanced to added several data using map concept.
+
+
+MAINTAINANCE
+------------
+ Easily Maintainable. For every page test we have a page business logic
+  
+  1. Business Logic : src/main/java
+  2. Test Logic : src/test/java
+  3. Features : src/test/resources
+  4. Report Config files : src/test/resources/config/extent-config.xml, src/test/resources/extent.properties, src/test/resources/cucumber.properties , src/test/resources/allure.properties
+
+
+Dependencies
+------------
+
+  Detailed can be fetched from pom.xml
+
+    <!--Maven Plugin -->
+    <mavensurefire.version>2.22.0</mavensurefire.version>
+
+    <!--Selenium Dependencies -->
+    <selenium.version>4.0.0-rc-1</selenium.version>
+    <drivermanager.version>5.0.3</drivermanager.version>
+
+    <!--Logger Dependency -->
+    <logger.version>2.14.1</logger.version>
+
+    <!--Cucumber & Reporting Dependencies -->
+    <cucumber.version>6.11.0</cucumber.version>
+    <extentreport.version>2.8.4</extentreport.version>
+    <reporting.version>5.5.4</reporting.version>
+    <allurereport.version>2.14.0</allurereport.version>
+    <aspectj.version>1.9.7</aspectj.version>
+
+    <!--Framework Dependencies -->
+    <cucumbertestng.version>6.10.4</cucumbertestng.version>
+    <cucumberjunit.version>6.11.0</cucumberjunit.version>
+    <junit.version>4.11</junit.version>
+    <testNg.version>7.3.0</testNg.version>
