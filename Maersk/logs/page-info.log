@@ -1,0 +1,153 @@
+[INFO ] 2021-09-22 09:29:10.691 [TestNG-PoolService-4] HomePage - Total Links 7
+[INFO ] 2021-09-22 09:29:15.125 [TestNG-PoolService-2] HomePage - Contact Page URL https://twitter.com/edotggtimer
+[INFO ] 2021-09-22 09:34:16.289 [TestNG-PoolService-0] CustomerTimerPage - preDefinedTimerList from preDefinedTimerList function[300, 298, 296, 294, 292, 290, 289, 286, 284, 282, 281, 278, 276, 274, 272, 270, 268, 266, 264, 262, 260, 258, 256, 254, 252, 250, 248, 246, 244, 242, 240, 238, 236, 234, 232, 230, 228, 226, 224, 222, 220, 218, 216, 214, 212, 210, 208, 206, 204, 202, 200, 198, 196, 194, 192, 189, 188, 186, 184, 182, 180, 178, 176, 174, 172, 169, 168, 165, 164, 162, 159, 157, 156, 154, 152, 150, 148, 146, 143, 142, 140, 138, 136, 133, 131, 129, 128, 126, 124, 122, 120, 118, 115, 114, 112, 110, 108, 106, 103, 102, 100, 98, 96, 94, 91, 90, 88, 86, 84, 82, 79, 78, 75, 73, 71, 70, 67, 65, 63, 61, 59, 57, 55, 53, 51, 49, 47, 45, 43, 41, 39, 37, 35, 33, 31, 29, 27, 25, 23, 21, 19, 17, 15, 14, 11, 9, 7, 5, 3, 1]
+[INFO ] 2021-09-22 09:34:16.314 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 300
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 298
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 296
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 294
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 292
+[ERROR] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validation failed for 290
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 289
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 286
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 284
+[ERROR] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validation failed for 282
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 281
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 278
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 276
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 274
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 272
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 270
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 268
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 266
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 264
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 262
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 260
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 258
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 256
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 254
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 252
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 250
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 248
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 246
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 244
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 242
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 240
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 238
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 236
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 234
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 232
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 230
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 228
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 226
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 224
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 222
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 220
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 218
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 216
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 214
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 212
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 210
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 208
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 206
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 204
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 202
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 200
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 198
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 196
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 194
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 192
+[ERROR] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validation failed for 189
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 188
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 186
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 184
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 182
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 180
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 178
+[INFO ] 2021-09-22 09:34:16.315 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 176
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 174
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 172
+[ERROR] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validation failed for 169
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 168
+[ERROR] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validation failed for 165
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 164
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 162
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 159
+[ERROR] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validation failed for 157
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 156
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 154
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 152
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 150
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 148
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 146
+[ERROR] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validation failed for 143
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 142
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 140
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 138
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 136
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 133
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 131
+[ERROR] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validation failed for 129
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 128
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 126
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 124
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 122
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 120
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 118
+[ERROR] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validation failed for 115
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 114
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 112
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 110
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 108
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 106
+[ERROR] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validation failed for 103
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 102
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 100
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 98
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 96
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 94
+[ERROR] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validation failed for 91
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 90
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 88
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 86
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 84
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 82
+[ERROR] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validation failed for 79
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 78
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 75
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 73
+[ERROR] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validation failed for 71
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 70
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 67
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 65
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 63
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 61
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 59
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 57
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 55
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 53
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 51
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 49
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 47
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 45
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 43
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 41
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 39
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 37
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 35
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 33
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 31
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 29
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 27
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 25
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 23
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 21
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 19
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 17
+[ERROR] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validation failed for 15
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 14
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 11
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 9
+[INFO ] 2021-09-22 09:34:16.316 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 7
+[INFO ] 2021-09-22 09:34:16.317 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 5
+[INFO ] 2021-09-22 09:34:16.317 [TestNG-PoolService-0] CustomerTimerPage - Validated Successfully for 3
+[INFO ] 2021-09-22 09:34:16.317 [TestNG-PoolService-0] CustomerTimerPage - Value of count in validateLogicCountDown 14

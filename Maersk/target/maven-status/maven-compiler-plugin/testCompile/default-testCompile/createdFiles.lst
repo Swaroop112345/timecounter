@@ -1,0 +1,6 @@
+parallel/CustomTimerPageSteps.class
+parallel/ParallelRun.class
+testrunners/MyTestRunner.class
+parallel/HomePageSteps.class
+parallel/ApplicationHooks.class
+parallel/FailedRun.class

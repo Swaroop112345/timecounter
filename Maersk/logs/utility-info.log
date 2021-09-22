@@ -1,0 +1,457 @@
+[INFO ] 2021-09-22 09:29:10.064 [TestNG-PoolService-0] Utility - Inside counter logic
+[INFO ] 2021-09-22 09:29:10.081 [TestNG-PoolService-0] Utility - WebElement By.cssSelector: a[title='5 minutes']
+[INFO ] 2021-09-22 09:29:10.082 [TestNG-PoolService-0] Utility - Driver ChromeDriver: chrome on MAC (ebbe7c6aef3e590e5658bdf57d513110)
+[INFO ] 2021-09-22 09:29:11.773 [TestNG-PoolService-0] Utility - About to click Predefined
+[INFO ] 2021-09-22 09:29:15.418 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:29:15.453 [TestNG-PoolService-0] Utility - Current Time 00:05:00
+[INFO ] 2021-09-22 09:29:15.453 [TestNG-PoolService-0] Utility - Difference in Millis 68
+[INFO ] 2021-09-22 09:29:17.395 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:29:17.417 [TestNG-PoolService-0] Utility - Current Time 00:04:58
+[INFO ] 2021-09-22 09:29:17.417 [TestNG-PoolService-0] Utility - Difference in Millis 30
+[INFO ] 2021-09-22 09:29:19.408 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:29:19.445 [TestNG-PoolService-0] Utility - Current Time 00:04:56
+[INFO ] 2021-09-22 09:29:19.458 [TestNG-PoolService-0] Utility - Difference in Millis 66
+[INFO ] 2021-09-22 09:29:21.415 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:29:21.427 [TestNG-PoolService-0] Utility - Current Time 00:04:54
+[INFO ] 2021-09-22 09:29:21.427 [TestNG-PoolService-0] Utility - Difference in Millis 30
+[INFO ] 2021-09-22 09:29:23.411 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:29:23.419 [TestNG-PoolService-0] Utility - Current Time 00:04:52
+[INFO ] 2021-09-22 09:29:23.419 [TestNG-PoolService-0] Utility - Difference in Millis 17
+[INFO ] 2021-09-22 09:29:25.418 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:29:25.429 [TestNG-PoolService-0] Utility - Current Time 00:04:50
+[INFO ] 2021-09-22 09:29:25.430 [TestNG-PoolService-0] Utility - Difference in Millis 23
+[INFO ] 2021-09-22 09:29:27.440 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:29:27.467 [TestNG-PoolService-0] Utility - Current Time 00:04:49
+[INFO ] 2021-09-22 09:29:27.468 [TestNG-PoolService-0] Utility - Difference in Millis 56
+[INFO ] 2021-09-22 09:29:29.450 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:29:29.469 [TestNG-PoolService-0] Utility - Current Time 00:04:46
+[INFO ] 2021-09-22 09:29:29.469 [TestNG-PoolService-0] Utility - Difference in Millis 52
+[INFO ] 2021-09-22 09:29:31.442 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:29:31.455 [TestNG-PoolService-0] Utility - Current Time 00:04:44
+[INFO ] 2021-09-22 09:29:31.456 [TestNG-PoolService-0] Utility - Difference in Millis 32
+[INFO ] 2021-09-22 09:29:33.433 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:29:33.443 [TestNG-PoolService-0] Utility - Current Time 00:04:42
+[INFO ] 2021-09-22 09:29:33.443 [TestNG-PoolService-0] Utility - Difference in Millis 16
+[INFO ] 2021-09-22 09:29:35.456 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:29:35.467 [TestNG-PoolService-0] Utility - Current Time 00:04:41
+[INFO ] 2021-09-22 09:29:35.467 [TestNG-PoolService-0] Utility - Difference in Millis 34
+[INFO ] 2021-09-22 09:29:37.461 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:29:37.503 [TestNG-PoolService-0] Utility - Current Time 00:04:38
+[INFO ] 2021-09-22 09:29:37.503 [TestNG-PoolService-0] Utility - Difference in Millis 65
+[INFO ] 2021-09-22 09:29:39.492 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:29:39.507 [TestNG-PoolService-0] Utility - Current Time 00:04:36
+[INFO ] 2021-09-22 09:29:39.507 [TestNG-PoolService-0] Utility - Difference in Millis 63
+[INFO ] 2021-09-22 09:29:41.464 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:29:41.473 [TestNG-PoolService-0] Utility - Current Time 00:04:34
+[INFO ] 2021-09-22 09:29:41.474 [TestNG-PoolService-0] Utility - Difference in Millis 25
+[INFO ] 2021-09-22 09:29:43.469 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:29:43.483 [TestNG-PoolService-0] Utility - Current Time 00:04:32
+[INFO ] 2021-09-22 09:29:43.483 [TestNG-PoolService-0] Utility - Difference in Millis 28
+[INFO ] 2021-09-22 09:29:45.477 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:29:45.488 [TestNG-PoolService-0] Utility - Current Time 00:04:30
+[INFO ] 2021-09-22 09:29:45.488 [TestNG-PoolService-0] Utility - Difference in Millis 28
+[INFO ] 2021-09-22 09:29:47.480 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:29:47.493 [TestNG-PoolService-0] Utility - Current Time 00:04:28
+[INFO ] 2021-09-22 09:29:47.493 [TestNG-PoolService-0] Utility - Difference in Millis 27
+[INFO ] 2021-09-22 09:29:49.485 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:29:49.500 [TestNG-PoolService-0] Utility - Current Time 00:04:26
+[INFO ] 2021-09-22 09:29:49.500 [TestNG-PoolService-0] Utility - Difference in Millis 29
+[INFO ] 2021-09-22 09:29:51.492 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:29:51.504 [TestNG-PoolService-0] Utility - Current Time 00:04:24
+[INFO ] 2021-09-22 09:29:51.504 [TestNG-PoolService-0] Utility - Difference in Millis 28
+[INFO ] 2021-09-22 09:29:53.515 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:29:53.540 [TestNG-PoolService-0] Utility - Current Time 00:04:22
+[INFO ] 2021-09-22 09:29:53.541 [TestNG-PoolService-0] Utility - Difference in Millis 60
+[INFO ] 2021-09-22 09:29:55.520 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:29:55.532 [TestNG-PoolService-0] Utility - Current Time 00:04:20
+[INFO ] 2021-09-22 09:29:55.532 [TestNG-PoolService-0] Utility - Difference in Millis 48
+[INFO ] 2021-09-22 09:29:57.502 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:29:57.507 [TestNG-PoolService-0] Utility - Current Time 00:04:18
+[INFO ] 2021-09-22 09:29:57.507 [TestNG-PoolService-0] Utility - Difference in Millis 17
+[INFO ] 2021-09-22 09:29:59.508 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:29:59.520 [TestNG-PoolService-0] Utility - Current Time 00:04:16
+[INFO ] 2021-09-22 09:29:59.521 [TestNG-PoolService-0] Utility - Difference in Millis 26
+[INFO ] 2021-09-22 09:30:01.510 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:01.518 [TestNG-PoolService-0] Utility - Current Time 00:04:14
+[INFO ] 2021-09-22 09:30:01.518 [TestNG-PoolService-0] Utility - Difference in Millis 18
+[INFO ] 2021-09-22 09:30:03.508 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:03.512 [TestNG-PoolService-0] Utility - Current Time 00:04:12
+[INFO ] 2021-09-22 09:30:03.512 [TestNG-PoolService-0] Utility - Difference in Millis 10
+[INFO ] 2021-09-22 09:30:05.531 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:05.542 [TestNG-PoolService-0] Utility - Current Time 00:04:10
+[INFO ] 2021-09-22 09:30:05.542 [TestNG-PoolService-0] Utility - Difference in Millis 35
+[INFO ] 2021-09-22 09:30:07.526 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:07.535 [TestNG-PoolService-0] Utility - Current Time 00:04:08
+[INFO ] 2021-09-22 09:30:07.535 [TestNG-PoolService-0] Utility - Difference in Millis 25
+[INFO ] 2021-09-22 09:30:09.539 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:09.566 [TestNG-PoolService-0] Utility - Current Time 00:04:06
+[INFO ] 2021-09-22 09:30:09.567 [TestNG-PoolService-0] Utility - Difference in Millis 52
+[INFO ] 2021-09-22 09:30:11.573 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:11.593 [TestNG-PoolService-0] Utility - Current Time 00:04:04
+[INFO ] 2021-09-22 09:30:11.594 [TestNG-PoolService-0] Utility - Difference in Millis 73
+[INFO ] 2021-09-22 09:30:13.528 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:13.536 [TestNG-PoolService-0] Utility - Current Time 00:04:02
+[INFO ] 2021-09-22 09:30:13.536 [TestNG-PoolService-0] Utility - Difference in Millis 15
+[INFO ] 2021-09-22 09:30:15.544 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:15.569 [TestNG-PoolService-0] Utility - Current Time 00:04:00
+[INFO ] 2021-09-22 09:30:15.569 [TestNG-PoolService-0] Utility - Difference in Millis 43
+[INFO ] 2021-09-22 09:30:17.552 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:17.565 [TestNG-PoolService-0] Utility - Current Time 00:03:58
+[INFO ] 2021-09-22 09:30:17.565 [TestNG-PoolService-0] Utility - Difference in Millis 34
+[INFO ] 2021-09-22 09:30:19.551 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:19.567 [TestNG-PoolService-0] Utility - Current Time 00:03:56
+[INFO ] 2021-09-22 09:30:19.583 [TestNG-PoolService-0] Utility - Difference in Millis 47
+[INFO ] 2021-09-22 09:30:21.561 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:21.574 [TestNG-PoolService-0] Utility - Current Time 00:03:54
+[INFO ] 2021-09-22 09:30:21.576 [TestNG-PoolService-0] Utility - Difference in Millis 35
+[INFO ] 2021-09-22 09:30:23.568 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:23.580 [TestNG-PoolService-0] Utility - Current Time 00:03:52
+[INFO ] 2021-09-22 09:30:23.580 [TestNG-PoolService-0] Utility - Difference in Millis 34
+[INFO ] 2021-09-22 09:30:25.574 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:25.611 [TestNG-PoolService-0] Utility - Current Time 00:03:50
+[INFO ] 2021-09-22 09:30:25.613 [TestNG-PoolService-0] Utility - Difference in Millis 61
+[INFO ] 2021-09-22 09:30:27.588 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:27.609 [TestNG-PoolService-0] Utility - Current Time 00:03:48
+[INFO ] 2021-09-22 09:30:27.610 [TestNG-PoolService-0] Utility - Difference in Millis 53
+[INFO ] 2021-09-22 09:30:29.585 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:29.596 [TestNG-PoolService-0] Utility - Current Time 00:03:46
+[INFO ] 2021-09-22 09:30:29.596 [TestNG-PoolService-0] Utility - Difference in Millis 34
+[INFO ] 2021-09-22 09:30:31.582 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:31.594 [TestNG-PoolService-0] Utility - Current Time 00:03:44
+[INFO ] 2021-09-22 09:30:31.595 [TestNG-PoolService-0] Utility - Difference in Millis 27
+[INFO ] 2021-09-22 09:30:33.591 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:33.602 [TestNG-PoolService-0] Utility - Current Time 00:03:42
+[INFO ] 2021-09-22 09:30:33.603 [TestNG-PoolService-0] Utility - Difference in Millis 30
+[INFO ] 2021-09-22 09:30:35.586 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:35.596 [TestNG-PoolService-0] Utility - Current Time 00:03:40
+[INFO ] 2021-09-22 09:30:35.596 [TestNG-PoolService-0] Utility - Difference in Millis 18
+[INFO ] 2021-09-22 09:30:37.591 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:37.597 [TestNG-PoolService-0] Utility - Current Time 00:03:38
+[INFO ] 2021-09-22 09:30:37.598 [TestNG-PoolService-0] Utility - Difference in Millis 15
+[INFO ] 2021-09-22 09:30:39.597 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:39.601 [TestNG-PoolService-0] Utility - Current Time 00:03:36
+[INFO ] 2021-09-22 09:30:39.601 [TestNG-PoolService-0] Utility - Difference in Millis 13
+[INFO ] 2021-09-22 09:30:41.602 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:41.607 [TestNG-PoolService-0] Utility - Current Time 00:03:34
+[INFO ] 2021-09-22 09:30:41.607 [TestNG-PoolService-0] Utility - Difference in Millis 14
+[INFO ] 2021-09-22 09:30:43.608 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:43.621 [TestNG-PoolService-0] Utility - Current Time 00:03:32
+[INFO ] 2021-09-22 09:30:43.621 [TestNG-PoolService-0] Utility - Difference in Millis 23
+[INFO ] 2021-09-22 09:30:45.643 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:45.665 [TestNG-PoolService-0] Utility - Current Time 00:03:30
+[INFO ] 2021-09-22 09:30:45.665 [TestNG-PoolService-0] Utility - Difference in Millis 66
+[INFO ] 2021-09-22 09:30:47.626 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:47.642 [TestNG-PoolService-0] Utility - Current Time 00:03:28
+[INFO ] 2021-09-22 09:30:47.643 [TestNG-PoolService-0] Utility - Difference in Millis 38
+[INFO ] 2021-09-22 09:30:49.619 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:49.625 [TestNG-PoolService-0] Utility - Current Time 00:03:26
+[INFO ] 2021-09-22 09:30:49.626 [TestNG-PoolService-0] Utility - Difference in Millis 17
+[INFO ] 2021-09-22 09:30:51.617 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:51.625 [TestNG-PoolService-0] Utility - Current Time 00:03:24
+[INFO ] 2021-09-22 09:30:51.625 [TestNG-PoolService-0] Utility - Difference in Millis 15
+[INFO ] 2021-09-22 09:30:53.620 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:53.630 [TestNG-PoolService-0] Utility - Current Time 00:03:22
+[INFO ] 2021-09-22 09:30:53.630 [TestNG-PoolService-0] Utility - Difference in Millis 17
+[INFO ] 2021-09-22 09:30:55.625 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:55.632 [TestNG-PoolService-0] Utility - Current Time 00:03:20
+[INFO ] 2021-09-22 09:30:55.632 [TestNG-PoolService-0] Utility - Difference in Millis 14
+[INFO ] 2021-09-22 09:30:57.637 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:57.645 [TestNG-PoolService-0] Utility - Current Time 00:03:18
+[INFO ] 2021-09-22 09:30:57.645 [TestNG-PoolService-0] Utility - Difference in Millis 22
+[INFO ] 2021-09-22 09:30:59.634 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:30:59.641 [TestNG-PoolService-0] Utility - Current Time 00:03:16
+[INFO ] 2021-09-22 09:30:59.641 [TestNG-PoolService-0] Utility - Difference in Millis 13
+[INFO ] 2021-09-22 09:31:01.640 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:01.646 [TestNG-PoolService-0] Utility - Current Time 00:03:14
+[INFO ] 2021-09-22 09:31:01.646 [TestNG-PoolService-0] Utility - Difference in Millis 14
+[INFO ] 2021-09-22 09:31:03.645 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:03.654 [TestNG-PoolService-0] Utility - Current Time 00:03:12
+[INFO ] 2021-09-22 09:31:03.654 [TestNG-PoolService-0] Utility - Difference in Millis 17
+[INFO ] 2021-09-22 09:31:05.669 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:05.700 [TestNG-PoolService-0] Utility - Current Time 00:03:09
+[INFO ] 2021-09-22 09:31:05.701 [TestNG-PoolService-0] Utility - Difference in Millis 59
+[INFO ] 2021-09-22 09:31:07.684 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:07.699 [TestNG-PoolService-0] Utility - Current Time 00:03:08
+[INFO ] 2021-09-22 09:31:07.699 [TestNG-PoolService-0] Utility - Difference in Millis 51
+[INFO ] 2021-09-22 09:31:09.668 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:09.695 [TestNG-PoolService-0] Utility - Current Time 00:03:06
+[INFO ] 2021-09-22 09:31:09.695 [TestNG-PoolService-0] Utility - Difference in Millis 42
+[INFO ] 2021-09-22 09:31:11.688 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:11.698 [TestNG-PoolService-0] Utility - Current Time 00:03:04
+[INFO ] 2021-09-22 09:31:11.698 [TestNG-PoolService-0] Utility - Difference in Millis 40
+[INFO ] 2021-09-22 09:31:13.680 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:13.692 [TestNG-PoolService-0] Utility - Current Time 00:03:02
+[INFO ] 2021-09-22 09:31:13.693 [TestNG-PoolService-0] Utility - Difference in Millis 29
+[INFO ] 2021-09-22 09:31:15.689 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:15.698 [TestNG-PoolService-0] Utility - Current Time 00:03:00
+[INFO ] 2021-09-22 09:31:15.698 [TestNG-PoolService-0] Utility - Difference in Millis 28
+[INFO ] 2021-09-22 09:31:17.688 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:17.698 [TestNG-PoolService-0] Utility - Current Time 00:02:58
+[INFO ] 2021-09-22 09:31:17.698 [TestNG-PoolService-0] Utility - Difference in Millis 22
+[INFO ] 2021-09-22 09:31:19.696 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:19.707 [TestNG-PoolService-0] Utility - Current Time 00:02:56
+[INFO ] 2021-09-22 09:31:19.707 [TestNG-PoolService-0] Utility - Difference in Millis 25
+[INFO ] 2021-09-22 09:31:21.700 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:21.712 [TestNG-PoolService-0] Utility - Current Time 00:02:54
+[INFO ] 2021-09-22 09:31:21.712 [TestNG-PoolService-0] Utility - Difference in Millis 25
+[INFO ] 2021-09-22 09:31:23.706 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:23.718 [TestNG-PoolService-0] Utility - Current Time 00:02:52
+[INFO ] 2021-09-22 09:31:23.718 [TestNG-PoolService-0] Utility - Difference in Millis 26
+[INFO ] 2021-09-22 09:31:25.719 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:25.794 [TestNG-PoolService-0] Utility - Current Time 00:02:49
+[INFO ] 2021-09-22 09:31:25.794 [TestNG-PoolService-0] Utility - Difference in Millis 97
+[INFO ] 2021-09-22 09:31:27.713 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:27.729 [TestNG-PoolService-0] Utility - Current Time 00:02:48
+[INFO ] 2021-09-22 09:31:27.729 [TestNG-PoolService-0] Utility - Difference in Millis 29
+[INFO ] 2021-09-22 09:31:29.732 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:29.764 [TestNG-PoolService-0] Utility - Current Time 00:02:45
+[INFO ] 2021-09-22 09:31:29.765 [TestNG-PoolService-0] Utility - Difference in Millis 60
+[INFO ] 2021-09-22 09:31:31.730 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:31.748 [TestNG-PoolService-0] Utility - Current Time 00:02:44
+[INFO ] 2021-09-22 09:31:31.748 [TestNG-PoolService-0] Utility - Difference in Millis 38
+[INFO ] 2021-09-22 09:31:33.765 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:33.780 [TestNG-PoolService-0] Utility - Current Time 00:02:42
+[INFO ] 2021-09-22 09:31:33.780 [TestNG-PoolService-0] Utility - Difference in Millis 65
+[INFO ] 2021-09-22 09:31:35.742 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:35.756 [TestNG-PoolService-0] Utility - Current Time 00:02:39
+[INFO ] 2021-09-22 09:31:35.757 [TestNG-PoolService-0] Utility - Difference in Millis 37
+[INFO ] 2021-09-22 09:31:37.744 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:37.754 [TestNG-PoolService-0] Utility - Current Time 00:02:37
+[INFO ] 2021-09-22 09:31:37.754 [TestNG-PoolService-0] Utility - Difference in Millis 29
+[INFO ] 2021-09-22 09:31:39.746 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:39.761 [TestNG-PoolService-0] Utility - Current Time 00:02:36
+[INFO ] 2021-09-22 09:31:39.761 [TestNG-PoolService-0] Utility - Difference in Millis 31
+[INFO ] 2021-09-22 09:31:41.749 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:41.757 [TestNG-PoolService-0] Utility - Current Time 00:02:34
+[INFO ] 2021-09-22 09:31:41.757 [TestNG-PoolService-0] Utility - Difference in Millis 22
+[INFO ] 2021-09-22 09:31:43.753 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:43.764 [TestNG-PoolService-0] Utility - Current Time 00:02:32
+[INFO ] 2021-09-22 09:31:43.765 [TestNG-PoolService-0] Utility - Difference in Millis 25
+[INFO ] 2021-09-22 09:31:45.758 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:45.769 [TestNG-PoolService-0] Utility - Current Time 00:02:30
+[INFO ] 2021-09-22 09:31:45.769 [TestNG-PoolService-0] Utility - Difference in Millis 24
+[INFO ] 2021-09-22 09:31:47.778 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:47.807 [TestNG-PoolService-0] Utility - Current Time 00:02:28
+[INFO ] 2021-09-22 09:31:47.809 [TestNG-PoolService-0] Utility - Difference in Millis 58
+[INFO ] 2021-09-22 09:31:49.819 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:49.830 [TestNG-PoolService-0] Utility - Current Time 00:02:26
+[INFO ] 2021-09-22 09:31:49.830 [TestNG-PoolService-0] Utility - Difference in Millis 74
+[INFO ] 2021-09-22 09:31:51.774 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:51.786 [TestNG-PoolService-0] Utility - Current Time 00:02:23
+[INFO ] 2021-09-22 09:31:51.787 [TestNG-PoolService-0] Utility - Difference in Millis 26
+[INFO ] 2021-09-22 09:31:53.779 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:53.789 [TestNG-PoolService-0] Utility - Current Time 00:02:22
+[INFO ] 2021-09-22 09:31:53.789 [TestNG-PoolService-0] Utility - Difference in Millis 23
+[INFO ] 2021-09-22 09:31:55.784 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:55.794 [TestNG-PoolService-0] Utility - Current Time 00:02:20
+[INFO ] 2021-09-22 09:31:55.794 [TestNG-PoolService-0] Utility - Difference in Millis 23
+[INFO ] 2021-09-22 09:31:57.790 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:57.801 [TestNG-PoolService-0] Utility - Current Time 00:02:18
+[INFO ] 2021-09-22 09:31:57.801 [TestNG-PoolService-0] Utility - Difference in Millis 24
+[INFO ] 2021-09-22 09:31:59.791 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:31:59.806 [TestNG-PoolService-0] Utility - Current Time 00:02:16
+[INFO ] 2021-09-22 09:31:59.806 [TestNG-PoolService-0] Utility - Difference in Millis 26
+[INFO ] 2021-09-22 09:32:01.805 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:01.820 [TestNG-PoolService-0] Utility - Current Time 00:02:13
+[INFO ] 2021-09-22 09:32:01.820 [TestNG-PoolService-0] Utility - Difference in Millis 35
+[INFO ] 2021-09-22 09:32:03.816 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:03.838 [TestNG-PoolService-0] Utility - Current Time 00:02:11
+[INFO ] 2021-09-22 09:32:03.839 [TestNG-PoolService-0] Utility - Difference in Millis 48
+[INFO ] 2021-09-22 09:32:05.821 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:05.841 [TestNG-PoolService-0] Utility - Current Time 00:02:09
+[INFO ] 2021-09-22 09:32:05.842 [TestNG-PoolService-0] Utility - Difference in Millis 46
+[INFO ] 2021-09-22 09:32:07.903 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:07.917 [TestNG-PoolService-0] Utility - Current Time 00:02:08
+[INFO ] 2021-09-22 09:32:07.918 [TestNG-PoolService-0] Utility - Difference in Millis 116
+[INFO ] 2021-09-22 09:32:09.838 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:09.851 [TestNG-PoolService-0] Utility - Current Time 00:02:06
+[INFO ] 2021-09-22 09:32:09.852 [TestNG-PoolService-0] Utility - Difference in Millis 44
+[INFO ] 2021-09-22 09:32:11.828 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:11.837 [TestNG-PoolService-0] Utility - Current Time 00:02:04
+[INFO ] 2021-09-22 09:32:11.838 [TestNG-PoolService-0] Utility - Difference in Millis 25
+[INFO ] 2021-09-22 09:32:13.829 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:13.840 [TestNG-PoolService-0] Utility - Current Time 00:02:02
+[INFO ] 2021-09-22 09:32:13.841 [TestNG-PoolService-0] Utility - Difference in Millis 23
+[INFO ] 2021-09-22 09:32:15.837 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:15.854 [TestNG-PoolService-0] Utility - Current Time 00:02:00
+[INFO ] 2021-09-22 09:32:15.854 [TestNG-PoolService-0] Utility - Difference in Millis 31
+[INFO ] 2021-09-22 09:32:17.844 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:17.858 [TestNG-PoolService-0] Utility - Current Time 00:01:58
+[INFO ] 2021-09-22 09:32:17.858 [TestNG-PoolService-0] Utility - Difference in Millis 30
+[INFO ] 2021-09-22 09:32:19.917 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:19.923 [TestNG-PoolService-0] Utility - Current Time 00:01:55
+[INFO ] 2021-09-22 09:32:19.923 [TestNG-PoolService-0] Utility - Difference in Millis 15
+[INFO ] 2021-09-22 09:32:21.921 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:21.930 [TestNG-PoolService-0] Utility - Current Time 00:01:54
+[INFO ] 2021-09-22 09:32:21.930 [TestNG-PoolService-0] Utility - Difference in Millis 17
+[INFO ] 2021-09-22 09:32:23.932 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:23.957 [TestNG-PoolService-0] Utility - Current Time 00:01:52
+[INFO ] 2021-09-22 09:32:23.958 [TestNG-PoolService-0] Utility - Difference in Millis 40
+[INFO ] 2021-09-22 09:32:25.944 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:25.960 [TestNG-PoolService-0] Utility - Current Time 00:01:50
+[INFO ] 2021-09-22 09:32:25.961 [TestNG-PoolService-0] Utility - Difference in Millis 41
+[INFO ] 2021-09-22 09:32:27.979 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:27.994 [TestNG-PoolService-0] Utility - Current Time 00:01:48
+[INFO ] 2021-09-22 09:32:27.994 [TestNG-PoolService-0] Utility - Difference in Millis 69
+[INFO ] 2021-09-22 09:32:29.954 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:29.976 [TestNG-PoolService-0] Utility - Current Time 00:01:46
+[INFO ] 2021-09-22 09:32:29.976 [TestNG-PoolService-0] Utility - Difference in Millis 46
+[INFO ] 2021-09-22 09:32:31.955 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:31.967 [TestNG-PoolService-0] Utility - Current Time 00:01:43
+[INFO ] 2021-09-22 09:32:31.967 [TestNG-PoolService-0] Utility - Difference in Millis 32
+[INFO ] 2021-09-22 09:32:33.954 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:33.979 [TestNG-PoolService-0] Utility - Current Time 00:01:42
+[INFO ] 2021-09-22 09:32:33.980 [TestNG-PoolService-0] Utility - Difference in Millis 40
+[INFO ] 2021-09-22 09:32:35.971 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:35.984 [TestNG-PoolService-0] Utility - Current Time 00:01:40
+[INFO ] 2021-09-22 09:32:35.984 [TestNG-PoolService-0] Utility - Difference in Millis 39
+[INFO ] 2021-09-22 09:32:37.963 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:37.980 [TestNG-PoolService-0] Utility - Current Time 00:01:38
+[INFO ] 2021-09-22 09:32:37.980 [TestNG-PoolService-0] Utility - Difference in Millis 29
+[INFO ] 2021-09-22 09:32:39.998 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:40.023 [TestNG-PoolService-0] Utility - Current Time 00:01:36
+[INFO ] 2021-09-22 09:32:40.024 [TestNG-PoolService-0] Utility - Difference in Millis 67
+[INFO ] 2021-09-22 09:32:41.992 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:42.008 [TestNG-PoolService-0] Utility - Current Time 00:01:34
+[INFO ] 2021-09-22 09:32:42.009 [TestNG-PoolService-0] Utility - Difference in Millis 47
+[INFO ] 2021-09-22 09:32:44.028 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:44.046 [TestNG-PoolService-0] Utility - Current Time 00:01:31
+[INFO ] 2021-09-22 09:32:44.049 [TestNG-PoolService-0] Utility - Difference in Millis 81
+[INFO ] 2021-09-22 09:32:45.991 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:46.005 [TestNG-PoolService-0] Utility - Current Time 00:01:30
+[INFO ] 2021-09-22 09:32:46.017 [TestNG-PoolService-0] Utility - Difference in Millis 44
+[INFO ] 2021-09-22 09:32:47.982 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:47.989 [TestNG-PoolService-0] Utility - Current Time 00:01:28
+[INFO ] 2021-09-22 09:32:47.989 [TestNG-PoolService-0] Utility - Difference in Millis 11
+[INFO ] 2021-09-22 09:32:49.996 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:50.010 [TestNG-PoolService-0] Utility - Current Time 00:01:26
+[INFO ] 2021-09-22 09:32:50.010 [TestNG-PoolService-0] Utility - Difference in Millis 30
+[INFO ] 2021-09-22 09:32:51.999 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:52.010 [TestNG-PoolService-0] Utility - Current Time 00:01:24
+[INFO ] 2021-09-22 09:32:52.010 [TestNG-PoolService-0] Utility - Difference in Millis 25
+[INFO ] 2021-09-22 09:32:54.004 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:54.015 [TestNG-PoolService-0] Utility - Current Time 00:01:22
+[INFO ] 2021-09-22 09:32:54.016 [TestNG-PoolService-0] Utility - Difference in Millis 26
+[INFO ] 2021-09-22 09:32:56.016 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:56.030 [TestNG-PoolService-0] Utility - Current Time 00:01:19
+[INFO ] 2021-09-22 09:32:56.030 [TestNG-PoolService-0] Utility - Difference in Millis 35
+[INFO ] 2021-09-22 09:32:58.017 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:32:58.029 [TestNG-PoolService-0] Utility - Current Time 00:01:18
+[INFO ] 2021-09-22 09:32:58.029 [TestNG-PoolService-0] Utility - Difference in Millis 29
+[INFO ] 2021-09-22 09:33:00.019 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:00.030 [TestNG-PoolService-0] Utility - Current Time 00:01:15
+[INFO ] 2021-09-22 09:33:00.031 [TestNG-PoolService-0] Utility - Difference in Millis 26
+[INFO ] 2021-09-22 09:33:02.026 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:02.037 [TestNG-PoolService-0] Utility - Current Time 00:01:13
+[INFO ] 2021-09-22 09:33:02.037 [TestNG-PoolService-0] Utility - Difference in Millis 27
+[INFO ] 2021-09-22 09:33:04.031 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:04.052 [TestNG-PoolService-0] Utility - Current Time 00:01:11
+[INFO ] 2021-09-22 09:33:04.052 [TestNG-PoolService-0] Utility - Difference in Millis 37
+[INFO ] 2021-09-22 09:33:06.066 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:06.077 [TestNG-PoolService-0] Utility - Current Time 00:01:10
+[INFO ] 2021-09-22 09:33:06.077 [TestNG-PoolService-0] Utility - Difference in Millis 57
+[INFO ] 2021-09-22 09:33:08.062 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:08.090 [TestNG-PoolService-0] Utility - Current Time 00:01:07
+[INFO ] 2021-09-22 09:33:08.092 [TestNG-PoolService-0] Utility - Difference in Millis 66
+[INFO ] 2021-09-22 09:33:10.066 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:10.081 [TestNG-PoolService-0] Utility - Current Time 00:01:05
+[INFO ] 2021-09-22 09:33:10.081 [TestNG-PoolService-0] Utility - Difference in Millis 50
+[INFO ] 2021-09-22 09:33:12.048 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:12.060 [TestNG-PoolService-0] Utility - Current Time 00:01:03
+[INFO ] 2021-09-22 09:33:12.060 [TestNG-PoolService-0] Utility - Difference in Millis 24
+[INFO ] 2021-09-22 09:33:14.048 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:14.057 [TestNG-PoolService-0] Utility - Current Time 00:01:01
+[INFO ] 2021-09-22 09:33:14.058 [TestNG-PoolService-0] Utility - Difference in Millis 17
+[INFO ] 2021-09-22 09:33:16.061 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:16.074 [TestNG-PoolService-0] Utility - Current Time 00:00:59
+[INFO ] 2021-09-22 09:33:16.075 [TestNG-PoolService-0] Utility - Difference in Millis 29
+[INFO ] 2021-09-22 09:33:18.065 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:18.077 [TestNG-PoolService-0] Utility - Current Time 00:00:57
+[INFO ] 2021-09-22 09:33:18.077 [TestNG-PoolService-0] Utility - Difference in Millis 26
+[INFO ] 2021-09-22 09:33:20.070 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:20.084 [TestNG-PoolService-0] Utility - Current Time 00:00:55
+[INFO ] 2021-09-22 09:33:20.085 [TestNG-PoolService-0] Utility - Difference in Millis 29
+[INFO ] 2021-09-22 09:33:22.085 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:22.111 [TestNG-PoolService-0] Utility - Current Time 00:00:53
+[INFO ] 2021-09-22 09:33:22.112 [TestNG-PoolService-0] Utility - Difference in Millis 51
+[INFO ] 2021-09-22 09:33:24.085 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:24.106 [TestNG-PoolService-0] Utility - Current Time 00:00:51
+[INFO ] 2021-09-22 09:33:24.108 [TestNG-PoolService-0] Utility - Difference in Millis 42
+[INFO ] 2021-09-22 09:33:26.110 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:26.123 [TestNG-PoolService-0] Utility - Current Time 00:00:49
+[INFO ] 2021-09-22 09:33:26.123 [TestNG-PoolService-0] Utility - Difference in Millis 51
+[INFO ] 2021-09-22 09:33:28.090 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:28.098 [TestNG-PoolService-0] Utility - Current Time 00:00:47
+[INFO ] 2021-09-22 09:33:28.099 [TestNG-PoolService-0] Utility - Difference in Millis 22
+[INFO ] 2021-09-22 09:33:30.085 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:30.103 [TestNG-PoolService-0] Utility - Current Time 00:00:45
+[INFO ] 2021-09-22 09:33:30.105 [TestNG-PoolService-0] Utility - Difference in Millis 28
+[INFO ] 2021-09-22 09:33:32.119 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:32.131 [TestNG-PoolService-0] Utility - Current Time 00:00:43
+[INFO ] 2021-09-22 09:33:32.131 [TestNG-PoolService-0] Utility - Difference in Millis 49
+[INFO ] 2021-09-22 09:33:34.103 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:34.112 [TestNG-PoolService-0] Utility - Current Time 00:00:41
+[INFO ] 2021-09-22 09:33:34.112 [TestNG-PoolService-0] Utility - Difference in Millis 25
+[INFO ] 2021-09-22 09:33:36.106 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:36.117 [TestNG-PoolService-0] Utility - Current Time 00:00:39
+[INFO ] 2021-09-22 09:33:36.117 [TestNG-PoolService-0] Utility - Difference in Millis 25
+[INFO ] 2021-09-22 09:33:38.111 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:38.122 [TestNG-PoolService-0] Utility - Current Time 00:00:37
+[INFO ] 2021-09-22 09:33:38.122 [TestNG-PoolService-0] Utility - Difference in Millis 25
+[INFO ] 2021-09-22 09:33:40.109 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:40.120 [TestNG-PoolService-0] Utility - Current Time 00:00:35
+[INFO ] 2021-09-22 09:33:40.120 [TestNG-PoolService-0] Utility - Difference in Millis 18
+[INFO ] 2021-09-22 09:33:42.122 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:42.134 [TestNG-PoolService-0] Utility - Current Time 00:00:33
+[INFO ] 2021-09-22 09:33:42.134 [TestNG-PoolService-0] Utility - Difference in Millis 27
+[INFO ] 2021-09-22 09:33:44.126 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:44.138 [TestNG-PoolService-0] Utility - Current Time 00:00:31
+[INFO ] 2021-09-22 09:33:44.138 [TestNG-PoolService-0] Utility - Difference in Millis 26
+[INFO ] 2021-09-22 09:33:46.143 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:46.153 [TestNG-PoolService-0] Utility - Current Time 00:00:29
+[INFO ] 2021-09-22 09:33:46.153 [TestNG-PoolService-0] Utility - Difference in Millis 36
+[INFO ] 2021-09-22 09:33:48.135 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:48.145 [TestNG-PoolService-0] Utility - Current Time 00:00:27
+[INFO ] 2021-09-22 09:33:48.146 [TestNG-PoolService-0] Utility - Difference in Millis 23
+[INFO ] 2021-09-22 09:33:50.161 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:50.171 [TestNG-PoolService-0] Utility - Current Time 00:00:25
+[INFO ] 2021-09-22 09:33:50.171 [TestNG-PoolService-0] Utility - Difference in Millis 43
+[INFO ] 2021-09-22 09:33:52.145 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:52.161 [TestNG-PoolService-0] Utility - Current Time 00:00:23
+[INFO ] 2021-09-22 09:33:52.162 [TestNG-PoolService-0] Utility - Difference in Millis 29
+[INFO ] 2021-09-22 09:33:54.188 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:54.203 [TestNG-PoolService-0] Utility - Current Time 00:00:21
+[INFO ] 2021-09-22 09:33:54.204 [TestNG-PoolService-0] Utility - Difference in Millis 66
+[INFO ] 2021-09-22 09:33:56.178 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:56.191 [TestNG-PoolService-0] Utility - Current Time 00:00:19
+[INFO ] 2021-09-22 09:33:56.192 [TestNG-PoolService-0] Utility - Difference in Millis 49
+[INFO ] 2021-09-22 09:33:58.193 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:33:58.206 [TestNG-PoolService-0] Utility - Current Time 00:00:17
+[INFO ] 2021-09-22 09:33:58.206 [TestNG-PoolService-0] Utility - Difference in Millis 61
+[INFO ] 2021-09-22 09:34:00.161 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:34:00.177 [TestNG-PoolService-0] Utility - Current Time 00:00:15
+[INFO ] 2021-09-22 09:34:00.178 [TestNG-PoolService-0] Utility - Difference in Millis 28
+[INFO ] 2021-09-22 09:34:02.169 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:34:02.179 [TestNG-PoolService-0] Utility - Current Time 00:00:14
+[INFO ] 2021-09-22 09:34:02.180 [TestNG-PoolService-0] Utility - Difference in Millis 25
+[INFO ] 2021-09-22 09:34:04.172 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:34:04.181 [TestNG-PoolService-0] Utility - Current Time 00:00:11
+[INFO ] 2021-09-22 09:34:04.181 [TestNG-PoolService-0] Utility - Difference in Millis 21
+[INFO ] 2021-09-22 09:34:06.172 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:34:06.181 [TestNG-PoolService-0] Utility - Current Time 00:00:09
+[INFO ] 2021-09-22 09:34:06.181 [TestNG-PoolService-0] Utility - Difference in Millis 16
+[INFO ] 2021-09-22 09:34:08.184 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:34:08.199 [TestNG-PoolService-0] Utility - Current Time 00:00:07
+[INFO ] 2021-09-22 09:34:08.199 [TestNG-PoolService-0] Utility - Difference in Millis 29
+[INFO ] 2021-09-22 09:34:10.193 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:34:10.206 [TestNG-PoolService-0] Utility - Current Time 00:00:05
+[INFO ] 2021-09-22 09:34:10.208 [TestNG-PoolService-0] Utility - Difference in Millis 31
+[INFO ] 2021-09-22 09:34:12.203 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:34:12.213 [TestNG-PoolService-0] Utility - Current Time 00:00:03
+[INFO ] 2021-09-22 09:34:12.213 [TestNG-PoolService-0] Utility - Difference in Millis 31
+[INFO ] 2021-09-22 09:34:14.200 [TestNG-PoolService-0] Utility - No Alert Present
+[INFO ] 2021-09-22 09:34:14.211 [TestNG-PoolService-0] Utility - Current Time 00:00:01
+[INFO ] 2021-09-22 09:34:14.211 [TestNG-PoolService-0] Utility - Difference in Millis 23
+[INFO ] 2021-09-22 09:34:16.237 [TestNG-PoolService-0] Utility -  Alert Present
+[INFO ] 2021-09-22 09:34:16.282 [TestNG-PoolService-0] Utility - Current Time time expired!
+[INFO ] 2021-09-22 09:34:16.287 [TestNG-PoolService-0] Utility - No Alert Present
