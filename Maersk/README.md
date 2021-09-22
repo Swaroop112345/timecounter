@@ -92,13 +92,15 @@ RUN THE SUITE
 -------------
 
   
-  1. Default : mvn clean verify 
-  It will launch chrome browser and execute the task asked @Assignment
+  1. Default : **mvn clean verify** 
+  
+   It will launch chrome browser and execute the task asked @Assignment
 
-  2. Custom: mvn -Dbrowser="firefox" -Dcucumber.filter.tags="'@Assignment'" clean verify
-  User can change during run time
+  2. Custom: **mvn -Dbrowser="firefox" -Dcucumber.filter.tags="'@Assignment'" clean verify**
+ 
+   User can change during run time
 
-  3.If URL gets modified and need to be changed on run time then it can be passed through as -Durl="https://e.ggtimer.com/modified"
+  3. If URL gets modified and need to be changed on run time then it can be passed through as -Durl="https://e.ggtimer.com/modified"
 
 
 REPORTING AND LOGS
