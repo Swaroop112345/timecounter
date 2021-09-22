@@ -2,6 +2,10 @@ pipeline{
 
     agent any
 
+      tools {
+        maven 'maven_3_8_2'
+    }
+
     environment{
         BROWSER='Chrome'
         TAG='@Assignment'
@@ -11,21 +15,19 @@ pipeline{
 
         stage ('Complile Stage'){
 
-            steps(){
-                withMaven(maven: maven_3_8_2){
+            steps{
                     sh 'mvn clean install -DskipTests' 
                 }
             }
-        }
+        
 
         stage ('Test Stage'){
 
-            steps(){
-                withMaven(maven: maven_3_8_2){
+            steps{
+               
                     echo "Browser : $BROWSER  Tag : $TAG"
                     sh 'mvn clean verify'
                     //sh 'mvn -Dbrowser="$BROWSER" -Dcucumber.filter.tags="'$TAG'" clean verify' 
-                }
             }
         }
 
