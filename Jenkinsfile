@@ -63,7 +63,7 @@ pipeline{
                 attachLog: true, 
                 attachmentsPattern: '**/test-output/SparkReport/*.html,**/test-output/SparkReport/*.pdf',
                 body: "Hi Team . PFA the automation Report ", 
-                subject: "Email from '$PROJECT_DEFAULT_SUBJECT' ", 
+                subject: "Email from '${env.JOB_NAME}'", 
                 to: 'swaroop0142@gmail.com');
             }
         }
