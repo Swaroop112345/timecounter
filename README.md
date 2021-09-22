@@ -92,7 +92,7 @@ RUN THE SUITE
 -------------
 
   
-  1. Default : **mvn clean verify **
+  1. Default : **mvn clean verify**
   
    It will launch chrome browser and execute the task asked @Assignment
  
