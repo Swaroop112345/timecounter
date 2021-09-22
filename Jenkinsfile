@@ -23,7 +23,8 @@ pipeline{
             steps(){
                 withMaven(maven: maven_3_8_2){
                     echo "Browser : $BROWSER  Tag : $TAG"
-                    sh 'mvn -Dbrowser="$BROWSER" -Dcucumber.filter.tags="'$TAG'" clean verify' 
+                    sh 'mvn clean verify'
+                    //sh 'mvn -Dbrowser="$BROWSER" -Dcucumber.filter.tags="'$TAG'" clean verify' 
                 }
             }
         }
