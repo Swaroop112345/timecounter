@@ -85,6 +85,8 @@ The variable section is driven from pom.xml. Hence please use below variables in
   Default tag is @Assignment. User can change to any other tags available during run time @HomePage @Regression
 
   <argLine>-Dcucumber.filter.tags="@Assignment"</argLine>
+  
+  4.Failed test cases can be rerun by updating Parallel section to FailedRun. Helpful in case of pipelines. 
 
 
 
@@ -123,6 +125,7 @@ HIGHLIGHTS
   3. Thread Safe and Synchronized which supports parallel execution.
   4. Parameterized variables which makes user friendly and maintainable.
   5. Good reporting . Almost support all available formats . Snapshot capture. 
+  6. Rerun failed test cases by updating configuration . 
 
 
 
