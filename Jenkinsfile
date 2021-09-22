@@ -16,7 +16,7 @@ pipeline{
         stage ('Complile Stage'){
 
             steps{
-                    sh 'mvn clean install -DskipTests' 
+                    sh 'mvn -f Maersk/pom.xml clean install -DskipTests' 
                 }
             }
         
@@ -26,7 +26,7 @@ pipeline{
             steps{
                
                     echo "Browser : $BROWSER  Tag : $TAG"
-                    sh 'mvn clean verify'
+                    sh 'mvn -f Maersk/pom.xml clean verify'
                     //sh 'mvn -Dbrowser="$BROWSER" -Dcucumber.filter.tags="'$TAG'" clean verify' 
             }
         }
