@@ -50,7 +50,9 @@ INSTALLATION
 PLATFORM SPECIFICATION
 ----------------------
   
-  Supported: chrome,firefox,safari,edge,headless
+  Platforms: Windows,MAC
+  
+  Supported Browsers: chrome,firefox,safari,edge,headless
   Unsupported: mobile versions
   
 
